@@ -27,3 +27,21 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+img {
+    height: 400px;
+    width: 600px;
+}
+
+h1{
+    font-size: 3rem;
+    text-shadow: yellow;
+    text-decoration: underline;
+    color: #6d00fb;
+}
+
+#header{
+height: 3rem;
+width: 3rem;
+background: linear-gradient(180deg, rgba(116,201,241,1) 35%, rgba(251,64,64,1) 100%);
+}
