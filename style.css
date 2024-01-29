@@ -35,13 +35,18 @@ img {
 
 h1{
     font-size: 3rem;
-    text-shadow: yellow;
+    text-shadow: 5px 5px 10px yellow;
     text-decoration: underline;
     color: #6d00fb;
+    width: 100%;
+    left: 30%
 }
 
 #header{
-height: 3rem;
-width: 3rem;
+text-align: center;
+height: 40%;
+width: 50%;
 background: linear-gradient(180deg, rgba(116,201,241,1) 35%, rgba(251,64,64,1) 100%);
+border-radius: 10px;
+
 }
